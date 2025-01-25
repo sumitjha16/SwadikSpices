@@ -4,7 +4,7 @@ import { Star, X, ChefHat, Flame, Mountain, Leaf, Sun, Ban, Plus, Minus } from '
 const spices = [
   {
     name: 'Turmeric Powder',
-    image: 'dist/assets/6.jpeg',
+    image: 'https://sumitjha.sirv.com/assets/6.jpeg',
     benefits: [
       'Natural anti-inflammatory properties',
       'Boosts immunity system',
@@ -22,7 +22,7 @@ const spices = [
   },
   {
     name: 'Red Chili Powder',
-    image: 'dist/assets/5.jpeg',
+    image: 'https://sumitjha.sirv.com/assets/5.jpeg',
     benefits: [
       'Enhances metabolism',
       'Rich in Vitamin C',
@@ -40,7 +40,7 @@ const spices = [
   },
   {
     name: 'Coriander Powder',
-    image: 'dist/assets/4.jpeg',
+    image: 'https://sumitjha.sirv.com/assets/4.jpeg',
     benefits: [
       'Aids digestion',
       'Anti-diabetic properties',
