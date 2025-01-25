@@ -3,7 +3,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const slides = [
   {
-    image: "https://sumitjha.sirv.com/assets/2.jpeg",
+    image: "https://sumitjha.sirv.com/assets/1.jpeg",
     title: "Authentic Spices for Authentic Flavors",
     subtitle: "Unmatched Quality in Every Grain"
   },
@@ -13,7 +13,7 @@ const slides = [
     subtitle: "Carefully Crafted for Your Wellness"
   },
   {
-    image: "https://sumitjha.sirv.com/assets/1.jpeg",
+    image: "https://sumitjha.sirv.com/assets/2.jpeg",
     title: "The Essence of Tradition in Every Dish",
     subtitle: "Sourced with Love and Integrity"
   }
